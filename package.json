@@ -1,0 +1,26 @@
+{
+  "name": "bot1",
+  "version": "0.0.1",
+  "description": "first bot ever creaTED",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon ./bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyarulina/abstracted-bot.git"
+  },
+  "author": "Alsu Yarulina <al.yarulina@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyarulina/abstracted-bot/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/anyarulina/abstracted-bot#readme",
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "ramda": "^0.27.1",
+    "telegraf": "^3.38.0"
+  }
+}
