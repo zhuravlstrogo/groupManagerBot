@@ -4,7 +4,7 @@ import low from 'lowdb'
 
 const { Telegraf, session } = T
 
-const token = '1299517227:AAHVn6y8Hy_vbqyIt3U1xz4rvveccSwfT4c'
+const token = ''
 
 const bot = new Telegraf(token)
     /// process.env.BOT_TOKEN)
